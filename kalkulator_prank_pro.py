@@ -521,4 +521,4 @@ document.querySelectorAll(".btn").forEach(btn=>{
 </html>
 """
 
-components.html(CALCULATOR_HTML, height=700, scrolling=False)
+components.html(CALCULATOR_HTML, height=820, scrolling=False)
